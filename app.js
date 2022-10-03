@@ -18,5 +18,5 @@ app.get('/products',(req,res)=>{
     ])
 })
 app.listen(port,()=>{
-    console.log(`The demo app is up and listening on port : ${port}`);
+    console.log(`Demo App is up and listening on port : ${port}`);
 })
